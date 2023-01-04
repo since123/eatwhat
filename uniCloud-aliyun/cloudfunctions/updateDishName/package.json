@@ -1,0 +1,7 @@
+{
+  "name": "updateDishName",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
